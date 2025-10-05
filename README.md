@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Erik Petrosyan, a 16-year-old **Software Engineer** with **4+ years of experience** in the field. Competent level in Go, Python.
+🎓 I am Erik Petrosyan, a 17-year-old **Software Engineer** with **5+ years of experience** in the field. Competent level in Go and Python.
 
-♟️ Beyond the world of tech, I love challenging myself to learn new skills. My hobbies span from chess, volleyball, to music 🎵.
+♟️ Beyond the world of tech, I love challenging myself to learn new skills. My hobbies span from chess and volleyball to music 🎵.
 
 ## 🔗 Links
 
